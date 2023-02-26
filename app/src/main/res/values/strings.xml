@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AchmadZahirWajdi-MealDB</string>
+    <string name="remove_from_favorite">Remove From Favorite</string>
+    <string name="img_meal">Img Meal</string>
+    <string name="add_from_favorite">Add From Favorite</string>
+    <string name="instruksi">Instruksi</string>
+    <string name="warning">Warning</string>
+    <string name="failed_to_fetch_data">Failed To Fetch Data</string>
+    <string name="favorites_empty">Favorites Empty</string>
+    <string name="error">Error</string>
+</resources>
