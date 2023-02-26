@@ -43,6 +43,7 @@
                     android:maxLines="2"
                     android:textSize="25sp"
                     android:textStyle="bold"
+                    android:textColor="@color/black"
                     tools:text="Meal Name" />
 
             </RelativeLayout>
